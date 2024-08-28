@@ -42,5 +42,5 @@ Edit & Publish: Review the generated content, make any necessary edits, and your
     ```
 
 # Screenshots
-![Snapshot](/images/1.jpg)
+![Snapshot](/images/1.png)
 
