@@ -14,6 +14,7 @@ Edit & Publish: Review the generated content, make any necessary edits, and your
 
 - **Frontend**: Streamlit
 - **Backend**: Gemini API
+- **API's Used**: Google Gemini 1.5 Pro and Hugging Face Stable diffusion v.1.5
 - **Programming Language**: Python
 
 ## Installation
