@@ -1,5 +1,5 @@
 # ScribbleAI: Personalized Blog Writing Companion
-ScribbleAI is a GenAI-powered tool designed to help users create personalized blog posts from their ideas. By leveraging the power of the Gemini API and Streamlit, ScribbleAI simplifies the content creation process, making writing faster and more efficient. Whether you're looking to enhance your creativity or overcome writer's block, ScribbleAI is here to assist.
+ScribbleAI Blogging is a GenAI-powered tool that creates personalized blog posts from user ideas. Built with the Gemini API for content generation and stable diffusion for image generation, Streamlit for frontend, it simplifies content creation, making writing faster and more efficient. Perfect for enhancing creativity and overcoming writer's block, ScribbleAI is here to assist.
 
 # Features
 Personalized Blog Generation: Generate blog posts based on your unique ideas with the help of AI.
